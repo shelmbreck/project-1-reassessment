@@ -1,0 +1,18 @@
+h1 {
+    font-size: 50px;
+    color: blue;
+}
+
+#temp-convert {
+    font-size: 50px;
+}
+
+#temp {
+    width: 200px;
+	height: 25px;
+}
+
+#display {
+    color: blue;
+    font-size: 50px;
+}
